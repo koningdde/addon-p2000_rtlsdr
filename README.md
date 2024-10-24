@@ -1,4 +1,4 @@
-# Home Assistant Add-on: P2000 RTL-SDR
+# Home Assistant Add-on: P2000 RTL-SDR New
 
 _Receive P2000 events using Home Assistant and your RTL-SDR dongle._
 
