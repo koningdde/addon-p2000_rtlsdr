@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: P2000 RTL-SDR add-on repository
+name: P2000 RTL-SDR add-on repository new
 url: 'https://github.com/koningdde/addon-p2000_rtlsdr_new'
 maintainer: koningdde
